@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: cml
+Version: 0.2.0
+Summary: A brief description of the library
+Home-page: https://github.com/fanghuangxu/china-minecraft-launcher
+Author: fanghuangxu
+Author-email: fanghuangxu <fanghuangxu@e163.com>
+License: MIT
+Project-URL: Homepage, https://github.com/fanghuangxu/china-minecraft-launcher
+Project-URL: Issue Tracker, https://github.com/fanghuangxu/china-minecraft-launcher/issues
+Keywords: minecraft launcher,minecraft-launcher,china-minecraft-launcher
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+这是一个用于启动minecraft的库--china-minecraft-launcher
